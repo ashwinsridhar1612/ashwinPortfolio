@@ -430,3 +430,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.imgCustom{
+  height: 350px;
+  width: 380px;
+}
